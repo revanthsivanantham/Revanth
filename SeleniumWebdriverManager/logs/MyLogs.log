@@ -1,0 +1,18 @@
+[ERROR] 2021-03-14 15:20:16.857 [main] Log4j - This is an error message
+[WARN ] 2021-03-14 15:20:16.873 [main] Log4j - This is a warning message
+[INFO ] 2021-03-14 15:20:16.873 [main] Log4j - This is an info message
+[FATAL] 2021-03-14 15:20:16.873 [main] Log4j - This is a fatal message
+[ERROR] 2021-03-14 15:21:38.889 [main] Log4j - This is an error message
+[WARN ] 2021-03-14 15:21:38.905 [main] Log4j - This is a warning message
+[INFO ] 2021-03-14 15:21:38.906 [main] Log4j - This is an info message
+[FATAL] 2021-03-14 15:21:38.906 [main] Log4j - This is a fatal message
+[TRACE] 2021-03-14 15:22:38.224 [main] Log4j - This is a trace message
+[ERROR] 2021-03-14 15:22:38.231 [main] Log4j - This is an error message
+[WARN ] 2021-03-14 15:22:38.231 [main] Log4j - This is a warning message
+[INFO ] 2021-03-14 15:22:38.232 [main] Log4j - This is an info message
+[FATAL] 2021-03-14 15:22:38.232 [main] Log4j - This is a fatal message
+[TRACE] 2021-03-15 17:24:42.992 [main] Log4j - This is a trace message
+[ERROR] 2021-03-15 17:24:43.010 [main] Log4j - This is an error message
+[WARN ] 2021-03-15 17:24:43.010 [main] Log4j - This is a warning message
+[INFO ] 2021-03-15 17:24:43.010 [main] Log4j - This is an info message
+[FATAL] 2021-03-15 17:24:43.011 [main] Log4j - This is a fatal message
